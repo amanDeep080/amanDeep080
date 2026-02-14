@@ -1,180 +1,121 @@
-<!-- =========================================================
-   FAANG++ | ENTERPRISE | CYBERPUNK | APPLE-MINIMAL | ONE FILE
-   Owner: Amandeep Kumar
-   ========================================================= -->
+<!-- ========================================================= -->
+<!--               FAANG++ CYBERPUNK EXTENSION                 -->
+<!-- ========================================================= -->
 
-<!-- =============== TOP: ENTERPRISE BADGES =============== -->
+---
+
+# 🌌 Featured Projects (Pinned Section)
+
 <p align="center">
-  <!-- Replace "amanDeep080" + "repo" with your profile/repo if needed -->
-  <img src="https://img.shields.io/github/actions/workflow/status/amanDeep080/repo/ci.yml?style=for-the-badge&label=CI&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/github/actions/workflow/status/amanDeep080/repo/build.yml?style=for-the-badge&label=Build&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coverage-80%25-00F7FF?style=for-the-badge&logo=codecov&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-SAST-ff00ff?style=for-the-badge&logo=semgrep&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-00F7FF?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-ff00ff?style=for-the-badge&logo=semver&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanDeep080&repo=Java-Advanced-OOPs-Assignment&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanDeep080&repo=memory_DB&theme=tokyonight&hide_border=true"/>
 </p>
 
+> 💡 Replace repo names above with your strongest 2–4 repositories.
+
+---
+
+# 🏢 Impact (Recruiter Optimized Section)
+
+### 🚀 Engineering Contributions
+
+- Designed scalable **REST APIs** following clean architecture.
+- Built multi-layer backend systems (Controller → Service → Repository).
+- Implemented thread-safe logic & TTL-based in-memory DB.
+- Applied OOP + SOLID principles in production-style projects.
+- Focused on performance optimization (time & space complexity).
+- Structured code for maintainability & extensibility.
+
+### 📈 Results-Oriented Thinking
+
+- Reduced complexity from O(n²) → O(n log n) in DSA problems.
+- Designed modular backend improving reusability.
+- Applied validation & exception handling patterns.
+- Built interview-ready system design foundations.
+
+---
+
+# 🧠 DSA Progress Tracker
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanDeep080&style=for-the-badge&color=00F7FF" />
-  <img src="https://img.shields.io/badge/Made%20With-Java-00F7FF?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made%20With-React-ff00ff?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-00F7FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arrays-Strong-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LinkedList-Strong-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack%2FQueue-Strong-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recursion-Good-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tree-In%20Progress-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graph-In%20Progress-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ================== CYBERPUNK HERO ================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:0a0f1f,45:0b1d3a,100:12002b&text=Amandeep%20Kumar&fontColor=00F7FF&fontSize=55&fontAlignY=38&desc=FAANG%2B%2B%20Full%20Stack%20Developer%20%7C%20Backend%20%7C%20System%20Design%20%7C%20Cloud&descAlignY=62&descSize=16&animation=twinkling" />
-</p>
+# ⚡ Animated Skill Bars
 
-<!-- Animated Gradient Name -->
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=840&lines=%F0%9F%8E%AF+Amandeep+Kumar+%7C+FAANG%2B%2B+Engineer+Mindset;%F0%9F%9A%80+Backend+%7C+System+Design+%7C+Cloud+%7C+DSA;%F0%9F%94%A5+Build+Clean.+Ship+Fast.+Scale+Hard.;%F0%9F%92%A1+Java+%7C+Node.js+%7C+React+%7C+AWS" />
-  </a>
-</h1>
+### Backend
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Shipping%20Production%20Code-00F7FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-System%20Design-ff00ff?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goal-FAANG%20Interview%20Ready-00F7FF?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-90%25-00F7FF?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST%20API-85%25-ff00ff?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-95%25-00F7FF?style=for-the-badge)
 
----
+### Frontend
 
-<!-- ===================== 3D PROFILE CARD ===================== -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanDeep080&theme=tokyonight" />
-</p>
+![React](https://img.shields.io/badge/React-80%25-ff00ff?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-00F7FF?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanDeep080&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanDeep080&theme=tokyonight" />
-</p>
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-85%25-ff00ff?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-75%25-00F7FF?style=for-the-badge)
 
 ---
 
-# 🧠 About Me (FAANG++ Summary)
+# 🏗️ System Design Mini Diagrams
 
-```yaml
-Name: Amandeep Kumar
-Role: Full Stack Developer
-Core Strengths: Java, OOP, DSA, REST APIs, Clean Architecture
-Focus: Backend Systems + System Design + Cloud
-Mindset: Build → Measure → Optimize → Scale
-🔥 I build scalable backend systems & clean APIs
+## 1️⃣ Scalable REST API
 
-🧩 Strong at OOP + SOLID + DSA (interview & production ready)
-
-☁️ Working with AWS + modern tooling
-
-🧠 Love designing high-performance systems
-
-🧰 Tech Stack (Your Skills)
-💻 Languages
-
-C/C++ • Java • JavaScript • Python • PHP • Kotlin • SQL • ALP
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,kotlin,mysql&perline=8" /> </p>
-⚙️ Frameworks / Frontend
-
-React.js • Node.js • Express.js • Bootstrap • HTML5 • CSS3 • Tailwind CSS
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,html,css,tailwind&perline=8" /> </p>
-🗄️ Databases
-
-MySQL • MongoDB
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=8" /> </p>
-🔧 Backend Development
-
-REST API Development
-
-Authentication & Authorization
-
-Clean Architecture (Controller → Service → Repository)
-
-Exception Handling + Validation
-
-Performance & Complexity Thinking
-
-☁️ Tools / Platforms
-
-AWS • Git • GitHub • VS Code • Android Studio • XAMPP • Eclipse • IntelliJ IDEA • PyCharm • Spyder
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio&perline=8" /> </p>
-<!-- ===================== SYSTEM DESIGN SECTION ===================== -->
-🏗️ System Design (FAANG Interview Ready)
-✅ Core Topics I Practice
-
-Scalability: load balancing, horizontal scaling, sharding
-
-Caching: Redis-style caching patterns (cache-aside, write-through)
-
-Databases: indexing, replication, partitioning, CAP basics
-
-Messaging: queues, pub/sub, event-driven systems
-
-Reliability: retries, idempotency, circuit breaker, rate limiting
-
-Observability: logs, metrics, tracing, alerting
-
-Security: auth (JWT/OAuth), RBAC, input validation, OWASP basics
-
-🧱 Clean Architecture Blueprint
-Client/UI
+```text
+Client
+   ↓
+Load Balancer
+   ↓
+Application Server Cluster
+   ↓
+Cache Layer (Redis style)
+   ↓
+Database (Indexed + Replicated)
+UI Layer
   ↓
-Controller (HTTP)
+Controller
   ↓
 Service (Business Logic)
   ↓
-Repository (Data Access)
+Repository
   ↓
-DB / Cache / Queue
+Database
+Users → CDN → Load Balancer → App Servers
+                     ↓
+                Cache Layer
+                     ↓
+                Primary DB
+                     ↓
+                Read Replicas
+🧩 Skills Logo Wall
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,kotlin,mysql,mongodb,react,nodejs,express,html,css,tailwind,bootstrap,aws,git,github,vscode,intellij,eclipse,androidstudio&perline=8" /> </p>
+🌌 CYBERPUNK GRID BACKGROUND FEEL
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0a0f1f,50:12002b,100:0b1d3a&text=BUILD%20CLEAN.%20SCALE%20HARD.%20ENGINEER%20SMART.&fontColor=00F7FF&fontSize=22"/> </p>
+🎯 FAANG Engineer Mindset
+class Engineer {
+    void build() {}
+    void optimize() {}
+    void scale() {}
 
-⚡ Performance Mindset
+    public static void main(String[] args) {
+        while(true){
+            build();
+            optimize();
+            scale();
+        }
+    }
+}
 
-Prefer O(1)/O(log n) solutions when possible
-
-Use caching when reads dominate
-
-Use batching + pagination for heavy endpoints
-
-Avoid N+1 queries
-
-Profile before optimizing
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-📊 GitHub Analytics
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=amanDeep080&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-<!-- ===================== CYBERPUNK CONTRIBUTION SNAKE ===================== -->
-🐍 Contribution Snake (Dark)
-<p align="center"> <img src="https://raw.githubusercontent.com/amanDeep080/Java-Advanced-OOPs-Assignment/output/github-contribution-grid-snake-dark.svg" /> </p>
-<!-- ===================== APPLE-STYLE MINIMAL PREMIUM ===================== -->
- Apple-Style Minimal Premium
-<p align="center"> <b>Amandeep Kumar</b><br/> Full Stack Developer · Backend Systems · System Design · Cloud </p> <p align="center"> <sub> Clean code. Strong fundamentals. Scalable systems. </sub> </p> <p align="center"> <img src="https://img.shields.io/badge/OOP-Expert-000000?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-Strong-000000?style=flat&logo=leetcode&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-Improving-000000?style=flat&logo=icloud&logoColor=white"/> </p>
-<!-- ===================== FAANG INTERVIEWER OPTIMIZED ===================== -->
-🎯 FAANG Interviewer Optimized Snapshot
-What I’m strong at
-
-Java + OOP + SOLID
-
-REST API Design + Backend Logic
-
-DSA problem solving mindset
-
-Clean architecture (maintainable code)
-
-System design fundamentals (scaling + caching + DB)
-
-What I’m currently improving
-
-Advanced system design (distributed systems patterns)
-
-AWS deployment + CI/CD pipelines
-
-High-performance backend tuning
-
-🤝 Connect
-<p align="center"> <!-- Replace with your real links --> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-Reach%20Out-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> <b>⚡ Motto:</b> Build today what scales tomorrow. </p> ```
+<p align="center"> 🚀 Target: Production-Ready Engineering ⚡ Focus: Performance + Scalability 🧠 Foundation: DSA + System Design </p> ```
