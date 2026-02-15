@@ -55,4 +55,14 @@ Rate Limit → Retry → Timeout → Circuit Breaker → Observability
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,html,css,tailwind,mysql,mongodb,aws,git,github,linux,idea,vscode&perline=8" /> </p> <br/>
 📊 GitHub Analytics
-<p align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> <img height="175" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <br/> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0a0f1f,45:12002b,100:0b1d3a&text=BUILD%20CLEAN.%20SCALE%20HARD.%20ENGINEER%20SMART.&fontColor=00F7FF&fontSize=20" /> </p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="175" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
