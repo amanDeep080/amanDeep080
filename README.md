@@ -1,7 +1,11 @@
-<!-- ================= PREMIUM HEADER ================= -->
+<!-- ================= ELITE PREMIUM HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Amandeep%20Kumar&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20System%20Design%20%7C%20Cloud&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Amandeep%20Kumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20System%20Design%20%7C%20Cloud&descAlignY=65" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Build+Clean.+Ship+Fast.;Design+Scalable+Systems.;Engineer+with+Clarity+and+Precision." />
 </p>
 
 <p align="center">
@@ -18,17 +22,17 @@
 
 ---
 
-## 🏢 Impact
+## 🏢 Engineering Impact
 
-• Designed scalable REST APIs using clean layered architecture  
-• Strong in OOP, SOLID principles & modular backend design  
-• Performance-focused coding mindset  
-• Practicing System Design for scalable systems  
-• DSA-driven problem solving approach  
+• Architected scalable REST APIs using layered clean architecture  
+• Strong OOP, SOLID & modular backend design  
+• Performance-optimized implementations  
+• Practicing production-grade System Design  
+• DSA-driven problem solving mindset  
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,html,css,tailwind,mysql,mongodb,aws,git,github,linux,idea,vscode&perline=8" />
@@ -36,49 +40,49 @@
 
 ---
 
-## 📊 Performance Stats
+## ⚡ Performance Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=amanDeep080&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amanDeep080&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Open Source Impact
+## 📈 Contribution Intelligence
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanDeep080&theme=default" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanDeep080&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Heatmap
+## 🏆 Open Source Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanDeep080&theme=github-compact&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanDeep080&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Live Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanDeep080/amanDeep080/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/amanDeep080/amanDeep080/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🧠 System Design Snapshot
+## 🧠 System Design Blueprint
 
 ```
-Client → CDN → Load Balancer → App → Cache → DB
-Controller → Service → Repository → Database
+Client → CDN → Load Balancer → App Servers → Cache → DB (Primary + Replicas)
+Controller → Service → Repository → Data Layer
 Rate Limit → Retry → Timeout → Circuit Breaker → Observability
 ```
 
 ---
 
 <p align="center">
-Build Clean. Scale Hard. Engineer Smart.
+⚡ Build Clean. Scale Hard. Engineer Smart.
 </p>
