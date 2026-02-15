@@ -1,5 +1,11 @@
 <!-- ================= SMOOTH AI GLOW HEADER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=44&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&height=90&lines=Amandeep+Kumar;Amandeep+Kumar" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=6B7280&center=true&vCenter=true&width=950&height=50&lines=Backend+Engineer+%7C+System+Design+%7C+Cloud;Clean+Code+%7C+Scalable+Architecture;Performance+%7C+Reliability+%7C+Observability" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1200&color=00F7FF&center=true&vCenter=true&width=950&height=80&lines=Amandeep+Kumar" />
 </p>
