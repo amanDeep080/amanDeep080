@@ -107,4 +107,10 @@ Rate Limit → Retry → Timeout → Circuit Breaker → Observability
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
+## 🏆 Highlights
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Languages-Java%20%7C%20JavaScript-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interest-System%20Design-00F7FF?style=for-the-badge"/>
+</p>
