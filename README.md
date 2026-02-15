@@ -92,3 +92,19 @@ Rate Limit → Retry → Timeout → Circuit Breaker → Observability
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05010d,35:12002b,70:001a2e,100:05010d&section=footer&animation=twinkling" />
 </p>
+---
+
+## 🏆 Trophy Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanDeep080&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Language Insights
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=donut&theme=tokyonight&hide_border=true" />
+</p>
+
