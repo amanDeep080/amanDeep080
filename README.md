@@ -11,13 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=9CA3AF&center=true&vCenter=true&width=950&height=50&lines=Backend+Engineer+%7C+System+Design+%7C+Cloud;Design+Scalable+Systems.;Build+Clean+Architecture.;Engineer+with+Precision." />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f2027,50:00F7FF,100:0f2027" />
-</p>
-<!-- ================= PREMIUM ANIMATED HEADER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Amandeep+Kumar;Backend+Engineer;System+Design+%7C+Cloud+%7C+Distributed+Systems" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=900&height=50&lines=Design+Scalable+Systems.;Build+Clean+Architecture.;Engineer+with+Precision." />
