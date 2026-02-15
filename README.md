@@ -1,30 +1,19 @@
-
-
-
-<!-- ================= SMOOTH AI GLOW HEADER ================= -->
+<!-- ================= PREMIUM BOXED GLOW HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1200&color=00F7FF&center=true&vCenter=true&width=950&height=80&lines=Amandeep+Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111827,50:1f2937,100:111827&text=%20&fontSize=1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=9CA3AF&center=true&vCenter=true&width=950&height=50&lines=Backend+Engineer+%7C+System+Design+%7C+Cloud;Design+Scalable+Systems.;Build+Clean+Architecture.;Engineer+with+Precision." />
-</p>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=900&height=50&lines=Design+Scalable+Systems.;Build+Clean+Architecture.;Engineer+with+Precision." />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&pause=800&color=00F7FF&center=true&vCenter=true&width=950&height=80&lines=⚡+Amandeep+Kumar;🚀+Backend+Engineer;💡+System+Design+Specialist" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0f2027,50:1f2937,100:111827&text=Amandeep%20Kumar&fontColor=E5E7EB&fontSize=46&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20Cloud&descAlignY=65" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Amandeep+Kumar" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&pause=900&color=9CA3AF&center=true&vCenter=true&width=800&lines=Design+Scalable+Systems.;Build+Clean+Architecture.;Engineer+with+Precision." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1800&color=9CA3AF&center=true&vCenter=true&width=900&height=50&lines=Backend+Engineer+%7C+System+Design+%7C+Cloud;Design+Scalable+Systems.;Build+Clean+Architecture.;Engineer+with+Precision." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111827,50:00F7FF,100:111827" />
 </p>
 
 ---
@@ -40,8 +29,6 @@ Backend engineer building scalable REST APIs using clean architecture.
 
 ---
 
-<!-- ================= GRADIENT SEPARATOR ================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827" />
 </p>
@@ -55,8 +42,6 @@ Backend engineer building scalable REST APIs using clean architecture.
 </p>
 
 ---
-
-<!-- ================= GRADIENT SEPARATOR ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827" />
@@ -79,8 +64,6 @@ Backend engineer building scalable REST APIs using clean architecture.
 </p>
 
 ---
-
-<!-- ================= GRADIENT SEPARATOR ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827" />
