@@ -3,7 +3,6 @@
 <!-- ================= SINGLE LARGE GLOW BOX HEADER ================= -->
 <!-- ================= CLEAN SINGLE HEADER ================= -->
 
-<img height="170" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 
 <p align="center">
@@ -58,8 +57,9 @@ Backend engineer building scalable REST APIs using clean architecture.
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="170" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+  </p>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true" />
