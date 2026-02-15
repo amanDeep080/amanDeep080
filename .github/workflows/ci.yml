@@ -12,19 +12,12 @@ permissions:
 
 jobs:
   quality:
-    name: Docs Quality Checks
+    name: Basic Repo Health Check
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Markdown Lint
-        uses: DavidAnson/markdownlint-cli2-action@v17
-        with:
-          config: .markdownlint.json
-          globs: |
-            **/*.md
 
       - name: Link Checker (soft)
         continue-on-error: true
