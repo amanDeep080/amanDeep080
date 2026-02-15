@@ -3,7 +3,7 @@
 <!-- ================= SINGLE LARGE GLOW BOX HEADER ================= -->
 <!-- ================= CLEAN SINGLE HEADER ================= -->
 
-
+<img height="170" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 
 <p align="center">
