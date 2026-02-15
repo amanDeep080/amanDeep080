@@ -1,5 +1,17 @@
 <!-- ================= PREMIUM BOXED GLOW HEADER ================= -->
+<!-- ================= REAL BOXED GLOW HEADER ================= -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1500&color=00F7FF&background=111827&center=true&vCenter=true&width=900&height=120&lines=Amandeep+Kumar;Backend+Engineer+%7C+System+Design+%7C+Cloud" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1800&color=9CA3AF&background=111827&center=true&vCenter=true&width=900&height=60&lines=Design+Scalable+Systems.;Build+Clean+Architecture.;Engineer+with+Precision." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111827,50:00F7FF,100:111827" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:111827,50:1f2937,100:111827&text=%20&fontSize=1" />
 </p>
