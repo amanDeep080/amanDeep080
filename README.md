@@ -1,10 +1,11 @@
-<!-- ======================= PREMIUM HEADER ======================= -->
+<!-- ===================== PREMIUM GITHUB PROFILE README ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0f1f,50:12002b,100:0b1d3a&text=Amandeep%20Kumar&fontColor=00F7FF&fontSize=54&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20System%20Design%20%7C%20AWS&descAlignY=62&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0f1f,45:12002b,100:0b1d3a&text=Amandeep%20Kumar&fontColor=00F7FF&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20System%20Design%20%7C%20AWS&descAlignY=64&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=24&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Build+clean.+Ship+fast.+Scale+hard.;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+AWS;OOP+%7C+DSA+%7C+System+Design+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=920&lines=Build+clean.+Ship+fast.+Scale+hard.;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+AWS;OOP+%7C+DSA+%7C+System+Design+Mindset" />
 </p>
 
 <p align="center">
@@ -25,8 +26,7 @@
 
 <br/>
 
-<!-- ======================= PREMIUM SUMMARY ======================= -->
-### 🧠 About
+## 🧠 About
 - Backend-focused full stack engineer building scalable REST APIs with clean layered architecture  
 - Strong in OOP, SOLID, and writing maintainable, testable code  
 - System design fundamentals: caching, load balancing, reliability patterns  
@@ -34,23 +34,26 @@
 
 <br/>
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=amanDeep080&repo=Java-Advanced-OOPs-Assignment&theme=tokyonight&hide_border=true&border_radius=14" />
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=amanDeep080&repo=memory_DB&theme=tokyonight&hide_border=true&border_radius=14" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=amanDeep080&repo=Java-Advanced-OOPs-Assignment&theme=tokyonight&hide_border=true&border_radius=14" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=amanDeep080&repo=memory_DB&theme=tokyonight&hide_border=true&border_radius=14" />
 </p>
 
 <br/>
 
-<!-- ======================= SYSTEM DESIGN SNAPSHOT ======================= -->
-### 🧩 System Design Snapshot
+## 🧩 System Design Snapshot
 
+Scalable API:
 Client → CDN → Load Balancer → App Servers → Cache → DB (Primary/Replica)
+
+Clean Architecture:
 Controller → Service → Repository → Database
+
+Reliability Toolkit:
 Rate Limit → Retry → Timeout → Circuit Breaker → Observability
-<br/> <!-- ======================= TECH STACK ======================= -->
+<br/>
 🧰 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,html,css,tailwind,mysql,mongodb,aws,git,github,linux,idea,vscode&perline=8" /> </p> <br/> <!-- ======================= STATS (FIXED, NO BROKEN LINKS) ======================= -->
-📊 GitHub Analytics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" /> <img height="170" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&border_radius=14" /> </p> <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" /> </p> <br/> <!-- ======================= PREMIUM FOOTER ======================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0a0f1f,50:12002b,100:0b1d3a&text=BUILD%20CLEAN.%20SCALE%20HARD.%20ENGINEER%20SMART.&fontColor=00F7FF&fontSize=20" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,html,css,tailwind,mysql,mongodb,aws,git,github,linux,idea,vscode&perline=8" /> </p> <br/>
+📊 GitHub Analytics (NO BROKEN LINKS)
+<!-- NOTE: Only stable providers used below: github-readme-stats.vercel.app + streak-stats.demolab.com --> <p align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> <img height="175" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <br/> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0a0f1f,45:12002b,100:0b1d3a&text=BUILD%20CLEAN.%20SCALE%20HARD.%20ENGINEER%20SMART.&fontColor=00F7FF&fontSize=20" /> </p>
