@@ -1,25 +1,5 @@
-## GitHub Activity
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&hide_border=true&theme=default" />
-</p>
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&hide_border=true&theme=default" />
-</p>
-<!-- ================= GOOGLE-LEVEL CLEAN HEADER ================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&pause=1500&color=111827&center=true&vCenter=true&width=850&height=70&lines=Amandeep+Kumar" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=2000&color=6B7280&center=true&vCenter=true&width=850&height=40&lines=Backend+Engineer+%7C+System+Design+%7C+Cloud;Building+Scalable+Systems+with+Clean+Architecture" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:E5E7EB,100:E5E7EB" />
-</p>
 
 <!-- ================= SMOOTH AI GLOW HEADER ================= -->
 <p align="center">
