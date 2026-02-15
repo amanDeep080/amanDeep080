@@ -1,18 +1,3 @@
-# ✅ COPY-PASTE PACK (README + 2 WORKFLOWS)
-# You will create 3 files:
-# 1) README.md
-# 2) .github/workflows/ci.yml
-# 3) .github/workflows/snake.yml
-#
-# Steps (quick):
-# - In repo: amanDeep080 (your profile repo)
-# - Create folders: .github/workflows/
-# - Create these 2 workflow files exactly
-# - Replace README with below
-# - Commit → wait 1-2 minutes → refresh profile
-
-# ========================= 1) README.md =========================
-# (Replace your README.md with this)
 
 <!-- ================= HEADER ================= -->
 
