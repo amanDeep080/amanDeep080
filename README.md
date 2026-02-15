@@ -1,15 +1,3 @@
-# ✅ ADD THESE (FAANG ultra-minimal + self-hosted heatmap/achievements/impact/performance + premium animated banner)
-# You will create/replace these files in repo: amanDeep080/amanDeep080
-# 1) README.md
-# 2) scripts/generate-assets.mjs
-# 3) .github/workflows/assets.yml
-#
-# NOTE:
-# - This uses ONLY GitHub (no Vercel/3rd-party cards for these new sections).
-# - Your existing Snake workflow stays as-is (it uses output branch).
-# - These new assets publish to a NEW branch: assets (so snake won’t be overwritten).
-
-# ============================== FILE: README.md ==============================
 
 <!-- ===================== PREMIUM SUBTLE ANIMATED BANNER (NO EXTERNAL) ===================== -->
 <p align="center">
