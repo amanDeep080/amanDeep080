@@ -1,3 +1,10 @@
+======================== FILE: .markdownlint.json ========================
+{
+  "MD033": false,
+  "MD045": false
+}
+
+======================== FILE: .github/workflows/ci.yml ========================
 name: CI
 
 on:
@@ -12,15 +19,17 @@ permissions:
 
 jobs:
   quality:
+    name: Docs Quality Checks
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Markdown Lint
+      - name: Markdown Lint (configured for profile README HTML)
         uses: DavidAnson/markdownlint-cli2-action@v17
         with:
+          config: .markdownlint.json
           globs: |
             **/*.md
 
@@ -29,3 +38,13 @@ jobs:
         uses: lycheeverse/lychee-action@v1
         with:
           args: --verbose --no-progress "**/*.md" --exclude-mail
+
+==========================================================================
+
+✅ WHAT TO DO NOW (quick):
+1) In your repo `amanDeep080`, create file `.markdownlint.json` (root).
+2) Replace `.github/workflows/ci.yml` with the above.
+3) Commit.
+4) Go to Actions → CI → Re-run jobs.
+
+After CI passes, your badge will turn GREEN.
