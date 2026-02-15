@@ -1,11 +1,10 @@
-<!-- ================= ULTRA ANIMATED HEADER ================= -->
-
+<!-- =================== AI-STYLE GLOWING BANNER (CYBERPUNK) =================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Amandeep%20Kumar&fontSize=50&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20Cloud&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:05010d,35:12002b,70:001a2e,100:05010d&text=Amandeep%20Kumar&fontColor=00F7FF&fontSize=52&fontAlignY=40&desc=Cyberpunk%20Elite%20%7C%20Backend%20Engineer%20%7C%20System%20Design%20%7C%20Cloud&descAlignY=66&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Build+Clean.+Ship+Fast.+Scale+Hard.;Design+Scalable+Systems.;Engineer+with+Clarity+and+Precision.;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Build+Clean.+Ship+Fast.+Scale+Hard.;Design+Scalable+Systems.+Engineer+Smart.;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React+%7C+AWS;OOP+%7C+DSA+%7C+Distributed+Systems+Mindset" />
 </p>
 
 <p align="center">
@@ -29,50 +28,55 @@
 ---
 
 ## ⚡ Engineering Impact
-
-• Architected scalable REST APIs using clean layered architecture  
-• Strong OOP, SOLID & modular backend design  
-• Performance-optimized implementations  
-• System Design focused (Scaling, Reliability, Observability)  
-• DSA-driven analytical mindset  
+- Architected scalable REST APIs using clean layered architecture  
+- Strong OOP, SOLID & modular backend design  
+- Performance-focused implementations + clean code practices  
+- System Design fundamentals: caching, scaling, reliability, observability  
+- DSA-driven problem solving with complexity awareness  
 
 ---
 
-## 🧩 Tech Stack (Animated Icons)
-
+## 🧩 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,html,css,tailwind,mysql,mongodb,aws,git,github,linux,idea,vscode&perline=8" />
 </p>
 
 ---
 
-## 🚀 Performance Dashboard
-
+## 🏆 Dynamic Trophy Board
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amanDeep080&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanDeep080&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📊 Contribution Intelligence
+## 🚀 Performance Dashboard
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Intelligence
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanDeep080&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🏆 Open Source Overview
-
+## 🧠 Animated Language Radar
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanDeep080&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/amanDeep080?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.indepth=true&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" />
 </p>
 
 ---
 
 ## 🐍 Live Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/amanDeep080/amanDeep080/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -81,14 +85,10 @@
 
 ## 🧠 System Design Blueprint
 
-```
 Client → CDN → Load Balancer → App Servers → Cache → DB (Primary + Replicas)
 Controller → Service → Repository → Data Layer
 Rate Limit → Retry → Timeout → Circuit Breaker → Observability
-```
-
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:2c5364,100:0f2027&text=BUILD%20CLEAN.%20SCALE%20HARD.%20ENGINEER%20SMART.&fontColor=00F7FF&fontSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05010d,35:12002b,70:001a2e,100:05010d&section=footer&animation=twinkling" />
 </p>
