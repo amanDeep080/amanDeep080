@@ -1,4 +1,3 @@
-<!-- ===================== PREMIUM GITHUB PROFILE README ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0f1f,45:12002b,100:0b1d3a&text=Amandeep%20Kumar&fontColor=00F7FF&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20System%20Design%20%7C%20AWS&descAlignY=64&animation=twinkling" />
@@ -55,5 +54,5 @@ Rate Limit → Retry → Timeout → Circuit Breaker → Observability
 <br/>
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,html,css,tailwind,mysql,mongodb,aws,git,github,linux,idea,vscode&perline=8" /> </p> <br/>
-📊 GitHub Analytics (NO BROKEN LINKS)
-<!-- NOTE: Only stable providers used below: github-readme-stats.vercel.app + streak-stats.demolab.com --> <p align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> <img height="175" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <br/> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0a0f1f,45:12002b,100:0b1d3a&text=BUILD%20CLEAN.%20SCALE%20HARD.%20ENGINEER%20SMART.&fontColor=00F7FF&fontSize=20" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> <img height="175" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=86400" /> </p> <br/> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0a0f1f,45:12002b,100:0b1d3a&text=BUILD%20CLEAN.%20SCALE%20HARD.%20ENGINEER%20SMART.&fontColor=00F7FF&fontSize=20" /> </p>
