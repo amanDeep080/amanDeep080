@@ -1,4 +1,12 @@
+## GitHub Activity
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&hide_border=true&theme=default" />
+</p>
 <!-- ================= GOOGLE-LEVEL CLEAN HEADER ================= -->
 
 <p align="center">
