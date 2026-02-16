@@ -19,6 +19,40 @@
 
 ---
 
+<!-- ================= ANIMATED ONE-PAGE LAYER (below header only) ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=20&animation=twinkling&color=0:111827,50:00F7FF,100:111827" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=900&color=00F7FF&center=true&vCenter=true&width=900&height=35&lines=%E2%9A%A1+Animated+Engineering+Portfolio+%E2%80%94+One+Page+Experience;%F0%9F%9A%80+Clean+Signals+%7C+Strong+Systems+%7C+Real+Output;%F0%9F%94%A5+Scroll+Down+for+Stack+%E2%86%92+Stats+%E2%86%92+Graph+%E2%86%92+Blueprint" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:111827,50:00F7FF,100:111827&section=header&animation=twinkling" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00F7FF?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Mindset-Performance%20%26%20Reliability-9CA3AF?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Style-Clean%20Architecture-22C55E?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Systems-Design%20First-F59E0B?style=for-the-badge&labelColor=111827" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827&animation=twinkling" />
+</p>
+
+---
+
+<!-- Animated Section Title (adds animation, does not replace your content) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=%E2%9A%A1+Engineering+Focus" />
+</p>
+
 ## ⚡ Engineering Focus
 
 Backend engineer building scalable REST APIs using clean architecture.
@@ -31,10 +65,14 @@ Backend engineer building scalable REST APIs using clean architecture.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827&animation=twinkling" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A9+Core+Stack" />
+</p>
 
 ## 🧩 Core Stack
 
@@ -45,10 +83,14 @@ Backend engineer building scalable REST APIs using clean architecture.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827&animation=twinkling" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%93%8A+Performance" />
+</p>
 
 ## 📊 Performance
 
@@ -68,10 +110,14 @@ Backend engineer building scalable REST APIs using clean architecture.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827&animation=twinkling" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%93%88+Contribution" />
+</p>
 
 ## 📈 Contribution
 
@@ -81,6 +127,16 @@ Backend engineer building scalable REST APIs using clean architecture.
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827&animation=twinkling" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%90%8D+Activity+Animation" />
+</p>
+
 ## 🐍 Activity Animation
 
 <p align="center">
@@ -89,15 +145,28 @@ Backend engineer building scalable REST APIs using clean architecture.
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:374151,100:111827&animation=twinkling" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+System+Design+Blueprint" />
+</p>
+
 ## 🧠 System Design Blueprint
 
-```
 Client → CDN → Load Balancer → App → Cache → Database
 Controller → Service → Repository → Data Layer
 Rate Limit → Retry → Timeout → Circuit Breaker → Observability
-```
+
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:111827,50:00F7FF,100:111827&section=footer&animation=twinkling" />
+</p>
 
 <p align="center">
 Minimal. Focused. Engineered.
