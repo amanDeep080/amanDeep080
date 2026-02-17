@@ -109,8 +109,9 @@ Backend engineer building scalable REST APIs using clean architecture.
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&langs_count=15&card_width=400" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&langs_count=15" />
 </p>
+
 
 
 
