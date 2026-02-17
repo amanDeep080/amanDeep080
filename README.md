@@ -26,42 +26,17 @@ Backend engineer building scalable systems with performance-first mindset.
 
 ---
 
-## 🧩 Core Tech Stack
-
-## 🧩 Tech Stack
-
-### 🖥 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&perline=6" />
-</p>
-
----
-
-### ⚙ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react&perline=6" />
-</p>
-
----
-
-### 🗄 Databases & Cache
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6" />
-</p>
-
----
-
-### ☁ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&perline=6" />
-</p>
-
----
-
-### 🛠 Tools & IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&perline=6" />
-</p>
+🧩 Tech Stack
+🖥 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,kotlin&perline=7" /> </p>
+⚙ Backend & Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,php&perline=6" /> </p>
+🗄 Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" /> </p>
+☁ Cloud & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=6" /> </p>
+🛠 Tools & IDEs
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&perline=6" /> </p>
 
 ---
 
