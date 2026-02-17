@@ -166,6 +166,15 @@ Backend engineer building scalable REST APIs using clean architecture.
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%A7%A0+System+Design+Blueprint" />
 </p>
 
+
+## 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
 ## 🧠 System Design Blueprint
 
 Client → CDN → Load Balancer → App → Cache → Database
