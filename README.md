@@ -28,8 +28,39 @@ Backend engineer building scalable systems with performance-first mindset.
 
 ## 🧩 Core Tech Stack
 
+## 🧩 Tech Stack
+
+### 🖥 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,react,mysql,mongodb,postgres,redis,aws,docker,kubernetes,git,linux,idea&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&perline=6" />
+</p>
+
+---
+
+### ⚙ Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react&perline=6" />
+</p>
+
+---
+
+### 🗄 Databases & Cache
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6" />
+</p>
+
+---
+
+### ☁ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&perline=6" />
+</p>
+
+---
+
+### 🛠 Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&perline=6" />
 </p>
 
 ---
