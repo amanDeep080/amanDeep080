@@ -32,7 +32,7 @@ Backend engineer building scalable systems with performance-first mindset.
 ⚙ Backend & Frameworks
 <p align="center"> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,php&perline=6" /> </p>
 🗄 Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=5" /> </p>
 ☁ Cloud & DevOps
 <p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=6" /> </p>
 🛠 Tools & IDEs
