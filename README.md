@@ -12,7 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:00F7FF,100:111827" />
 </p>
 
----
+
 
 ## ⚡ Engineering Focus
 
