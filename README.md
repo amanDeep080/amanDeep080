@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HEADER ================ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Amandeep+Kumar" />
