@@ -1,12 +1,17 @@
-<svg width="1400" height="6" viewBox="0 0 1400 6" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="30" viewBox="0 0 1400 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="divGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0B1120" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#00F7FF"/>
-      <stop offset="50%" stop-color="#8B5CF6"/>
-      <stop offset="80%" stop-color="#00F7FF"/>
-      <stop offset="100%" stop-color="#0B1120" stop-opacity="0"/>
+    <linearGradient id="fadeEdges" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="8%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="92%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
     </linearGradient>
   </defs>
-  <rect width="1400" height="6" fill="url(#divGrad)"/>
+  <rect width="1400" height="30" fill="#000000"/>
+  <text x="0" y="20" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00FF41" opacity="0.7">
+    -9\E5#05;+]5950{+{8F0#}_A1:5F203\E%_\6=;2A17FD91+C1:}B9%=:./#55@D#1{1.21/__FC:7-_A0#%9_]1.;{_CBE\FF48F%7:2-A2;8AC01B1F\$C4DD:61$1E;4AB[E[BE;AF%1\A7+:-B[2%%BC+3}@C=3:+/_8]B[:C@D\1.8:4D1.11_1{]0572+_48.9C+#./-__7]2$05/}7A-
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="-900,0" dur="18s" repeatCount="indefinite"/>
+  </text>
+  <rect width="1400" height="30" fill="url(#fadeEdges)"/>
+  <rect x="0" y="28" width="1400" height="2" fill="#0D3B1A"/>
 </svg>
