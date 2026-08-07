@@ -1,27 +1,25 @@
-<!-- ================= TOP WAVE ================= -->
+<!-- ================= HERO BANNER (custom isometric asset) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00F7FF,100:0F172A&height=200&section=header&text=AMANDEEP%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20Cloud&descAlignY=58&descSize=18&descColor=9CA3AF" width="100%"/>
+  <img src="./assets/banner.svg" width="100%" alt="Amandeep Kumar" />
 </p>
 
 <!-- ================= TYPING SUBTITLE ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=Designing+Scalable+Distributed+Systems;Clean+Architecture+%26+SOLID+by+Default;REST+%2F+gRPC+APIs+that+Scale;DSA-Driven+Problem+Solving;Shipping+with+Precision%2C+Not+Guesswork." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=40&lines=Designing+Scalable+Distributed+Systems;Clean+Architecture+%26+SOLID+by+Default;REST+%2F+gRPC+APIs+that+Scale;DSA-Driven+Problem+Solving;Shipping+with+Precision%2C+Not+Guesswork." />
 </p>
 
-<!-- ================= SOCIAL / STATUS BADGES ================= -->
+<!-- ================= STATUS BADGES ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanDeep080&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/amanDeep080?label=Followers&style=for-the-badge&color=0F172A&labelColor=00F7FF" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-System%20Design-9CA3AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-System%20Design-1F2937?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:00F7FF,100:111827" width="100%"/>
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= ABOUT ================= -->
-## ⚡ About Me
+<p align="center"><img src="./assets/header-about-me.svg" width="70%" /></p>
 
 ```yaml
 engineer:
@@ -38,49 +36,28 @@ engineer:
     - "Performance Engineering & Observability"
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:00F7FF,100:111827" width="100%"/>
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= TECH STACK ================= -->
-## 🧩 Tech Stack
+<p align="center"><img src="./assets/header-tech-stack.svg" width="70%" /></p>
 
-### 🖥 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php,kotlin&perline=8" />
-</p>
+**Languages**
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php,kotlin&perline=8" /></p>
 
-### ⚙ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,laravel&perline=6" />
-</p>
+**Backend & Frameworks**
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,laravel&perline=6" /></p>
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&perline=6" />
-</p>
+**Frontend**
+<p align="center"><img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&perline=6" /></p>
 
-### 🗄 Databases & Caching
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=5" />
-</p>
+**Databases & Caching**
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=5" /></p>
 
-### ☁ Cloud, DevOps & Infra
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git,github,githubactions&perline=9" />
-</p>
+**Cloud, DevOps & Infra**
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git,github,githubactions&perline=9" /></p>
 
-### 📡 Messaging, Testing & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,postman,jest,figma,vscode,idea,androidstudio&perline=9" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:00F7FF,100:111827" width="100%"/>
-</p>
-
-<!-- ================= EXTENDED BADGE STACK ================= -->
-## 🚀 Extended Stack
+**Messaging, Testing & Tools**
+<p align="center"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,postman,jest,figma,vscode,idea,androidstudio&perline=9" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -106,12 +83,10 @@ engineer:
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:00F7FF,100:111827" width="100%"/>
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= FEATURED PROJECTS ================= -->
-## 🏗️ Featured Systems
+<p align="center"><img src="./assets/header-featured-systems.svg" width="70%" /></p>
 
 <table align="center">
 <tr>
@@ -166,75 +141,64 @@ Static analysis + LLM-powered review engine.
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:00F7FF,100:111827" width="100%"/>
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= STATS ================= -->
-## 📊 Performance
+<p align="center"><img src="./assets/header-performance.svg" width="70%" /></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&mode=daily&card_width=350&cache_seconds=1800" />
 </p>
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
   <img height="165" src="https://github-profile-trophy.vercel.app/?username=amanDeep080&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" />
 </p>
 
+> **If the streak card still shows 0 / looks empty:** go to `github.com/settings/profile` → check **"Include private contributions on my profile"**. The streak service can only count what your public contribution graph shows — private commits are invisible to it otherwise. After enabling that, hard-refresh the README (GitHub caches these images for ~30 min via its camo proxy).
+
 <!-- ================= CONTRIBUTION GRAPH ================= -->
-## 📈 Contribution Activity
+<p align="center"><img src="./assets/header-contribution-activity.svg" width="70%" /></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanDeep080&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-<!-- ================= SNAKE ANIMATION ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/amanDeep080/amanDeep080/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-<sub align="center">☝️ Snake animation requires a one-time GitHub Action setup — see note at the bottom of this file.</sub>
+<p align="center"><sub>☝️ Snake animation needs a one-time GitHub Action — see setup note at the bottom.</sub></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111827,50:00F7FF,100:111827" width="100%"/>
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SYSTEM DESIGN BLUEPRINT ================= -->
-## 🧠 System Design Blueprint
+<p align="center"><img src="./assets/header-system-design-blueprint.svg" width="70%" /></p>
 
-```
-                 ┌────────────────────┐
-                 │      Client         │
-                 │  (React / Kotlin)   │
-                 └─────────┬──────────┘
-                            │  HTTPS / REST / GraphQL
-                 ┌─────────▼──────────┐
-                 │    API Gateway       │
-                 │  (Auth · Rate Limit) │
-                 └─────────┬──────────┘
-              ┌─────────────┼─────────────┐
-     ┌────────▼──────┐ ┌────▼───────┐ ┌────▼────────┐
-     │  Auth Service  │ │ Core Domain │ │ Notification │
-     │ (Spring Boot)  │ │  Services   │ │   Service    │
-     └────────┬──────┘ └────┬───────┘ └────┬────────┘
-              │              │               │
-     ┌────────▼──────────────▼───────────────▼────────┐
-     │        Message Broker (Kafka / RabbitMQ)         │
-     └────────┬──────────────┬───────────────┬────────┘
-              │              │               │
-     ┌────────▼──────┐ ┌────▼───────┐ ┌────▼────────┐
-     │   PostgreSQL   │ │   Redis     │ │   S3 / Blob  │
-     │  (Source of    │ │  (Cache /   │ │   Storage    │
-     │   Truth)       │ │  Sessions)  │ │              │
-     └────────────────┘ └────────────┘ └──────────────┘
+```mermaid
+flowchart TB
+    A[Client — React / Kotlin] -->|HTTPS / REST / GraphQL| B[API Gateway<br/>Auth · Rate Limit]
+    B --> C[Auth Service<br/>Spring Boot]
+    B --> D[Core Domain Services]
+    B --> E[Notification Service]
+    C --> F[(Kafka / RabbitMQ)]
+    D --> F
+    E --> F
+    F --> G[(PostgreSQL<br/>Source of Truth)]
+    F --> H[(Redis<br/>Cache / Sessions)]
+    F --> I[(S3 / Blob Storage)]
 ```
 
-> Replace this block with a Mermaid or Excalidraw diagram embed if your target renderer supports it — GitHub natively renders Mermaid in READMEs (` ```mermaid ` code fences).
+<sub>GitHub natively renders Mermaid diagrams in READMEs — this one updates as real markdown, no external image dependency.</sub>
 
+<!-- ================= FOOTER (custom isometric asset) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00F7FF,100:0F172A&height=120&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" />
 </p>
 
-<p align="center">
-  <sub>⚡ Designed with intent — built to scale.</sub>
-</p>
+---
+
+### ⚙️ Setup notes (do these once in your repo)
+
+1. **Commit the `assets/` folder** in this download to the root of your `amanDeep080/amanDeep080` profile repo, alongside `README.md`. The banner/header/footer images reference them as relative paths (`./assets/...`), so they'll only render once both are pushed together.
+2. **Fix the streak card**: GitHub → Settings → Profile → enable *"Include private contributions on my profile"* if most of your work is on private repos.
+3. **Enable the snake animation**: add a workflow using [`Platane/snk`](https://github.com/Platane/snk) to your profile repo's `.github/workflows/` — it commits a generated `github-contribution-grid-snake-dark.svg` to an `output` branch on a schedule, which is what the snake image above points to.
