@@ -1,0 +1,28 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pillBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="pillEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <g filter="url(#softShadow)">
+    <rect x="4" y="4" width="892" height="82" rx="18" fill="url(#pillBg)" stroke="url(#pillEdge)" stroke-width="2"/>
+    <rect x="4" y="4" width="892" height="41.0" rx="18" fill="url(#sheen)"/>
+  </g>
+  <circle cx="46" cy="45.0" r="14" fill="none" stroke="url(#pillEdge)" stroke-width="2.5"/>
+  <circle cx="46" cy="45.0" r="5" fill="url(#pillEdge)"/>
+  <text x="76" y="54.0" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="28" fill="#F1F5F9">Tech Stack</text>
+  <text x="870" y="51.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-weight="500" font-size="14" fill="#64748B">02 / TOOLING</text>
+</svg>
