@@ -168,13 +168,14 @@ Static analysis + LLM-powered review engine.
 <p align="center"><img src="./assets/header-performance.svg" width="60%" /></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0D1117" />
-  <img height="165" src="https://streak-stats.demolab.com?user=amanDeep080&theme=react&hide_border=true&mode=daily&card_width=350&cache_seconds=1800&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img width="480" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="380" height="165" src="https://streak-stats.demolab.com?user=amanDeep080&theme=react&hide_border=true&mode=daily&card_width=350&cache_seconds=1800&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=12&bg_color=0D1117&title_color=00FF41" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=amanDeep080&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8&bg=000000" />
+  <img width="850" height="220" src="https://github-profile-trophy.vercel.app/?username=amanDeep080&theme=onedark&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
+
+<sub>$ note — trophy/stats cards are free third-party services (Vercel-hosted) and occasionally rate-limit or go down for a few minutes. If a card shows broken here, right-click → open the image URL directly in a new tab: if that also fails, it's the service being down, not your repo — just wait and hard-refresh later. If it loads fine standalone but not on GitHub, it's GitHub's ~30min image cache — hard-refresh (Cmd+Shift+R) fixes it.</sub>
 
 > **`$ debug streak_card`** — if it still shows 0 / empty: GitHub → Settings → Profile → enable **"Include private contributions on my profile"**. The streak service only sees what your public contribution graph shows. GitHub also caches these images ~30 min via its proxy, so hard-refresh after fixing.
 
