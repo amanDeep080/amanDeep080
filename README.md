@@ -1,98 +1,110 @@
-<!-- ================= HERO BANNER (custom isometric asset) ================= -->
+<!-- ================= HERO BANNER (animated matrix rain terminal) ================= -->
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Amandeep Kumar" />
 </p>
 
-<!-- ================= TYPING SUBTITLE ================= -->
+<!-- ================= TERMINAL TYPING LINE ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=40&lines=Designing+Scalable+Distributed+Systems;Clean+Architecture+%26+SOLID+by+Default;REST+%2F+gRPC+APIs+that+Scale;DSA-Driven+Problem+Solving;Shipping+with+Precision%2C+Not+Guesswork." />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=18&duration=2200&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=40&lines=%24+init+system_design.exe;%24+deploy+--target%3Dproduction+--zero-downtime;%24+while(true)+%7B+learn()%3B+build()%3B+ship()%3B+%7D;%24+status%3A+compiling_scalable_systems...;%24+access_granted" />
 </p>
 
 <!-- ================= STATUS BADGES ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanDeep080&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/amanDeep080?label=Followers&style=for-the-badge&color=0F172A&labelColor=00F7FF" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-System%20Design-1F2937?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=amanDeep080&label=PROFILE_VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/github/followers/amanDeep080?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=00FF41&logoColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN__TO__WORK-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-000000?style=for-the-badge&color=000000&labelColor=00FF41" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= ABOUT ================= -->
-<p align="center"><img src="./assets/header-about-me.svg" width="70%" /></p>
+<p align="center"><img src="./assets/header-about-me.svg" width="60%" /></p>
 
-```yaml
-engineer:
-  name: "Amandeep Kumar"
-  role: "Full-Stack / Backend Engineer"
-  education: "B.Tech, Computer Science"
-  philosophy: "Design for scale. Build for clarity. Ship with precision."
+```bash
+$ cat about_me.txt
+
+  name        : Amandeep Kumar
+  role        : Full-Stack / Backend Engineer
+  education   : B.Tech, Computer Science
+  philosophy  : "Design for scale. Build for clarity. Ship with precision."
+
   currently_building:
-    - "Suraksha Bank — full-stack net banking platform (MFA, ledgers, loans, admin RBAC)"
-    - "Suraksha Cover — insurance management platform (Spring Boot 3 + React)"
+    -> Suraksha Bank   : full-stack net banking platform (MFA, ledgers, loans, admin RBAC)
+    -> Suraksha Cover  : insurance management platform (Spring Boot 3 + React)
+
   interests:
-    - "System Design & Distributed Architecture"
-    - "Clean Architecture & SOLID Principles"
-    - "Performance Engineering & Observability"
+    -> System Design & Distributed Architecture
+    -> Clean Architecture & SOLID Principles
+    -> Performance Engineering & Observability
+
+$ _
 ```
 
 <img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= TECH STACK ================= -->
-<p align="center"><img src="./assets/header-tech-stack.svg" width="70%" /></p>
-
-**Languages**
-<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php,kotlin&perline=8" /></p>
-
-**Backend & Frameworks**
-<p align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,laravel&perline=6" /></p>
-
-**Frontend**
-<p align="center"><img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&perline=6" /></p>
-
-**Databases & Caching**
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&perline=5" /></p>
-
-**Cloud, DevOps & Infra**
-<p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git,github,githubactions&perline=9" /></p>
-
-**Messaging, Testing & Tools**
-<p align="center"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,postman,jest,figma,vscode,idea,androidstudio&perline=9" /></p>
+<p align="center"><img src="./assets/header-tech-stack.svg" width="60%" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&labelColor=000000" width="1" height="1"/>
+</p>
+
+**`$ languages/`**
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php,kotlin&theme=dark&perline=8" /></p>
+
+**`$ backend_and_frameworks/`**
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,laravel&theme=dark&perline=6" /></p>
+
+**`$ frontend/`**
+<p align="center"><img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=dark&perline=6" /></p>
+
+**`$ databases_and_caching/`**
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark&perline=5" /></p>
+
+**`$ cloud_devops_and_infra/`**
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git,github,githubactions&theme=dark&perline=9" /></p>
+
+**`$ messaging_testing_and_tools/`**
+<p align="center"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,postman,jest,figma,vscode,idea,androidstudio&theme=dark&perline=9" /></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00FF41" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00FF41" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00FF41" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= FEATURED PROJECTS ================= -->
-<p align="center"><img src="./assets/header-featured-systems.svg" width="70%" /></p>
+<p align="center"><img src="./assets/header-featured-systems.svg" width="60%" /></p>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Suraksha Bank
+```
+$ ./run suraksha_bank.sh
+```
+**🏦 Suraksha Bank**
 Full-stack net banking simulation modeled on Indian retail banks.
 - Multi-factor authentication & full transaction ledger
 - Loan / FD / RD lifecycle engine
@@ -104,7 +116,10 @@ Full-stack net banking simulation modeled on Indian retail banks.
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Suraksha Cover
+```
+$ ./run suraksha_cover.sh
+```
+**🛡️ Suraksha Cover**
 Insurance management platform with role-based portals.
 - Admin / Agent / Customer portals
 - Two-step OTP login & scoped data access
@@ -118,7 +133,10 @@ Insurance management platform with role-based portals.
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 MediSphere
+```
+$ ./run medisphere.sh
+```
+**🩺 MediSphere**
 Production-grade hospital management system.
 - 118 files, Flyway migrations, Cloudinary storage
 - Gemini AI integration
@@ -129,7 +147,10 @@ Production-grade hospital management system.
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Redline — AI Code Review Assistant
+```
+$ ./run redline.sh
+```
+**🔍 Redline — AI Code Review Assistant**
 Static analysis + LLM-powered review engine.
 - Java static analyzer + GPT-4o-mini review layer
 - Line-annotated "review gutter" UI
@@ -144,37 +165,38 @@ Static analysis + LLM-powered review engine.
 <img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= STATS ================= -->
-<p align="center"><img src="./assets/header-performance.svg" width="70%" /></p>
+<p align="center"><img src="./assets/header-performance.svg" width="60%" /></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://streak-stats.demolab.com?user=amanDeep080&theme=tokyonight&hide_border=true&mode=daily&card_width=350&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanDeep080&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0D1117" />
+  <img height="165" src="https://streak-stats.demolab.com?user=amanDeep080&theme=react&hide_border=true&mode=daily&card_width=350&cache_seconds=1800&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=amanDeep080&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanDeep080&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=12&bg_color=0D1117&title_color=00FF41" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=amanDeep080&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8&bg=000000" />
 </p>
 
-> **If the streak card still shows 0 / looks empty:** go to `github.com/settings/profile` → check **"Include private contributions on my profile"**. The streak service can only count what your public contribution graph shows — private commits are invisible to it otherwise. After enabling that, hard-refresh the README (GitHub caches these images for ~30 min via its camo proxy).
+> **`$ debug streak_card`** — if it still shows 0 / empty: GitHub → Settings → Profile → enable **"Include private contributions on my profile"**. The streak service only sees what your public contribution graph shows. GitHub also caches these images ~30 min via its proxy, so hard-refresh after fixing.
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
-<p align="center"><img src="./assets/header-contribution-activity.svg" width="70%" /></p>
+<p align="center"><img src="./assets/header-contribution-activity.svg" width="60%" /></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanDeep080&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanDeep080&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amanDeep080/amanDeep080/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-<p align="center"><sub>☝️ Snake animation needs a one-time GitHub Action — see setup note at the bottom.</sub></p>
+<p align="center"><sub>$ snake.sh — requires a one-time GitHub Action, see setup notes below.</sub></p>
 
 <img src="./assets/divider.svg" width="100%" />
 
 <!-- ================= SYSTEM DESIGN BLUEPRINT ================= -->
-<p align="center"><img src="./assets/header-system-design-blueprint.svg" width="70%" /></p>
+<p align="center"><img src="./assets/header-system-design-blueprint.svg" width="60%" /></p>
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#000000','primaryTextColor':'#00FF41','primaryBorderColor':'#00FF41','lineColor':'#00FF41','secondaryColor':'#0D1117','tertiaryColor':'#000000'}}}%%
 flowchart TB
     A[Client — React / Kotlin] -->|HTTPS / REST / GraphQL| B[API Gateway<br/>Auth · Rate Limit]
     B --> C[Auth Service<br/>Spring Boot]
@@ -188,17 +210,17 @@ flowchart TB
     F --> I[(S3 / Blob Storage)]
 ```
 
-<sub>GitHub natively renders Mermaid diagrams in READMEs — this one updates as real markdown, no external image dependency.</sub>
+<sub>$ note — GitHub renders Mermaid natively, dark-themed to match the terminal aesthetic.</sub>
 
-<!-- ================= FOOTER (custom isometric asset) ================= -->
+<!-- ================= FOOTER (animated matrix rain terminal) ================= -->
 <p align="center">
   <img src="./assets/footer.svg" width="100%" />
 </p>
 
 ---
 
-### ⚙️ Setup notes (do these once in your repo)
+### `$ setup.sh` — do these once in your repo
 
-1. **Commit the `assets/` folder** in this download to the root of your `amanDeep080/amanDeep080` profile repo, alongside `README.md`. The banner/header/footer images reference them as relative paths (`./assets/...`), so they'll only render once both are pushed together.
+1. **Unzip and upload the whole thing.** Extract the zip, then on `github.com/amanDeep080/amanDeep080` → **Add file → Upload files** → drag in `README.md` and the entire `assets` folder together, so `assets/banner.svg` etc. sit at the repo root next to the README. Commit directly to `main`.
 2. **Fix the streak card**: GitHub → Settings → Profile → enable *"Include private contributions on my profile"* if most of your work is on private repos.
-3. **Enable the snake animation**: add a workflow using [`Platane/snk`](https://github.com/Platane/snk) to your profile repo's `.github/workflows/` — it commits a generated `github-contribution-grid-snake-dark.svg` to an `output` branch on a schedule, which is what the snake image above points to.
+3. **Enable the snake animation**: add a workflow using [`Platane/snk`](https://github.com/Platane/snk) to `.github/workflows/` in this repo — it generates and commits `github-contribution-grid-snake-dark.svg` to an `output` branch, which the snake image above points to.
